@@ -11,7 +11,7 @@ function downloadCV() {
     
     // Set the download attributes
     link.href = URL.createObjectURL(blob);
-    link.download = 'CV_[NAMA ANDA].html';
+    link.download = 'CV_Hudhany_Athallah_Karim.html';
     
     // Trigger the download
     document.body.appendChild(link);
